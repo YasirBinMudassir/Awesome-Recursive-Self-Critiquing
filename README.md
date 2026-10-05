@@ -282,7 +282,7 @@ Before opening a pull request, please provide:
 Suggested entry format:
 
 ```markdown
-- **Name** (Authors/Organization, Year) — **[Paper](...)** · **[Code](...)**
+- **Name** (Yasir/Crown, 2026) — **[Paper](...)** · **[Code](...)**
   What is evaluated, why it is relevant, and the most important limitation.
 ```
 
